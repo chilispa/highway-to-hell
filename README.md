@@ -3,11 +3,11 @@
 # highway-to-hell
 I'm on my way to the promised land
 
-## Quality Assistance 
+## 1)Quality Assistance 
 * how Atlassian does QA https://www.atlassian.com/inside-atlassian/qa
 * From Quality Assurance to Quality Assistance https://amaysim.engineering/from-quality-assurance-to-quality-assistance-32ffc990d27b
 
-## Robot Framework
+## 2)Robot Framework
 * RobotFramework.io https://robotframework.org/
 * Slack: robotframework.slack.com
 * ChromeDriver: https://chromedriver.chromium.org/downloads
@@ -17,7 +17,7 @@ I'm on my way to the promised land
 * Work with backend: RequestLIbrary https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
 
 
-## QA @CHILI
+## 3)QA @CHILI
 * Story of QA in CHILI: https://docs.google.com/presentation/d/1KqhBjgt_AZ7wfSg_ulPbVG1QJpGnrOyQ/edit?dls=true
 
 
