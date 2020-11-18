@@ -19,9 +19,11 @@ I'm on my way to the promised land
 
 ## 3)QA @CHILI
 * Story of QA in CHILI: https://docs.google.com/presentation/d/1KqhBjgt_AZ7wfSg_ulPbVG1QJpGnrOyQ/edit?dls=true
-
-
-
-
-
-
+* Services and tools:
+  * [Conviva](https://www.conviva.com/about/): Integrated Streaming Intelligence Platform
+  *  [Firebase Crashlytics](https://firebase.google.com/products/crashlytics): Real time crash reporter
+  *  [Tag Manager](https://marketingplatform.google.com/intl/it/about/tag-manager/): Tag Manager - Tag management solutions
+  *  [LingoHub](https://lingohub.com/): Translation management system
+  *  [Rollbar](https://rollbar.com/product/): Real-time alerts and errors monitoring
+  *  [Google Cloud Operations (AKA Stackdriver)](https://cloud.google.com/products/operations):  Logs collector and monitoring
+  * [Grafana](https://grafana.com/docs/): Compose observability dashboards
