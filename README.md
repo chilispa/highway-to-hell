@@ -16,8 +16,17 @@ I'm on my way to the promised land
 * Working with dictionary: Collection https://robotframework.org/robotframework/latest/libraries/Collections.html
 * Work with backend: RequestLIbrary https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
 
+## 3) Automation on Android / Ios
+* jvm and jvm in path https://phoenixnap.com/kb/how-to-install-java-ubuntu
+* Android studio and emulator (or alternative emulator) https://developer.android.com/studio
+* Appium (desktop or not) https://github.com/appium/appium-desktop/releases and node.js
+* Run Appium and Android Studio
+* Apk in project
+* Check the settings in robotframework project and match it with appium / emulator configuration (name, host, port, name of device...)
+* You can run a test on your local machine ;)
 
-## 3)QA @CHILI
+
+## 4)QA @CHILI
 * Story of QA in CHILI: https://docs.google.com/presentation/d/1KqhBjgt_AZ7wfSg_ulPbVG1QJpGnrOyQ/edit?dls=true
 
 
