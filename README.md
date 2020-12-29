@@ -15,6 +15,7 @@ I'm on my way to the promised land
 * BuiltIn: https://robotframework.org/robotframework/latest/libraries/BuiltIn.html
 * Working with dictionary: Collection https://robotframework.org/robotframework/latest/libraries/Collections.html
 * Work with backend: RequestLIbrary https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
+* Best Practice: https://docs.google.com/document/d/1BmCiIXSppdbywuQtl6QtuD86UbbAMAg5LFYzPcLB9pU/edit
 
 ## 3) Automation on Android / Ios
 * jvm and jvm in path https://phoenixnap.com/kb/how-to-install-java-ubuntu
