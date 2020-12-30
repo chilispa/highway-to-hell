@@ -3,7 +3,7 @@
 <img src="rf_neo.png" alt="drawing" width="200"/>
 
 ## Content
-* [1. Technical conventions](##technical-conventions)
+* [1. Technical conventions](#technical-conventions)
   - [1.1 Robot Framework Tables](###robot-framework-tables)
   - [1.2 Resource Files](###resource-files)
   - [1.3 Variables](###variables)
