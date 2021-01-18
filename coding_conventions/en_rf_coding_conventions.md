@@ -97,7 +97,7 @@ My keyword
 When keywords get too complex it is suggested to use **robotframework inline evaluation**.
 
 ```robotframework
-${test}=     ${{ return str(1*3) }}
+${test}=  Set Variable  ${{ str(1*3) }}
 ```
 
 ---
