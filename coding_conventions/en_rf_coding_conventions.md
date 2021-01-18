@@ -77,7 +77,7 @@ ${camelCase}   Don't
 
 ### Arguments
 
-To avoid not knowing what YML resource files
+To avoid not knowing what parameter is passed to the function use named arguments
 ```robotframework
 Named arguments   first=1  second=2
 Positional arguments  1  2
