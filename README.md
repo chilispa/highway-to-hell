@@ -39,5 +39,5 @@ I'm on my way to the promised land
    - [Grafana](https://grafana.com/docs/): Compose observability dashboards
 
 ## 5) Performance Test
-* [jemeter] https://jmeter.apache.org/
-* Tutorial: https://riptutorial.com/jmeter
+* [jemeter] (https://jmeter.apache.org/)
+* [Tutorial] (https://riptutorial.com/jmeter)
