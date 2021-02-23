@@ -3,11 +3,11 @@
 # highway-to-hell
 I'm on my way to the promised land
 
-## 1)Quality Assistance 
+## 1) Quality Assistance 
 * [how Atlassian does QA](https://www.atlassian.com/inside-atlassian/qa)
 * [From Quality Assurance to Quality Assistance](https://amaysim.engineering/from-quality-assurance-to-quality-assistance-32ffc990d27b)
 
-## 2)Robot Framework
+## 2) Robot Framework
 * [RobotFramework.io](https://robotframework.org/)
 * [Slack](https://robotframework.slack.com)
 * [ChromeDriver](https://chromedriver.chromium.org/downloads)
@@ -27,7 +27,7 @@ I'm on my way to the promised land
 * You can run a test on your local machine ;)
 
 
-## 4)QA @CHILI
+## 4) QA @CHILI
 * [Story of QA in CHILI](https://docs.google.com/presentation/d/1KqhBjgt_AZ7wfSg_ulPbVG1QJpGnrOyQ/edit?dls=true)
 * Services and tools:
    - [Conviva](https://www.conviva.com/about/): Integrated Streaming Intelligence Platform
@@ -37,3 +37,7 @@ I'm on my way to the promised land
    -  [Rollbar](https://rollbar.com/product/): Real-time alerts and errors monitoring
    -  [Google Cloud Operations (AKA Stackdriver)](https://cloud.google.com/products/operations):  Logs collector and monitoring
    - [Grafana](https://grafana.com/docs/): Compose observability dashboards
+
+## 5) Performance Test
+* [jemeter] https://jmeter.apache.org/
+* Tutorial: https://riptutorial.com/jmeter
