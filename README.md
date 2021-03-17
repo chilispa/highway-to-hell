@@ -21,6 +21,9 @@ I'm on my way to the promised land
 * [jvm and jvm in path](https://phoenixnap.com/kb/how-to-install-java-ubuntu)
 * [Android studio and emulator (or alternative emulator)](https://developer.android.com/studio)
 * [Appium (desktop or not) and node.js](https://github.com/appium/appium-desktop/releases)
+* [The UiAutomator2 Driver for Android](http://appium.io/docs/en/drivers/android-uiautomator2/) (Android)
+  * npm install appium-uiautomator2-driver
+* Export ANDROID_HOME variable (Android)
 * Run Appium and Android Studio
 * Apk in project
 * Check the settings in robotframework project and match it with appium / emulator configuration (name, host, port, name of device...)
